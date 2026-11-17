@@ -73519,5 +73519,12 @@
     "author": "ll905518294",
     "description": "Scan your vault for broken links, unreferenced resources and duplicate files, then safely organize related notes. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ll905518294/obsidian-vault-doctor"
+  },
+  {
+    "id": "lexiside",
+    "name": "LexiSide",
+    "author": "LexiSide",
+    "description": "Explore contextual English vocabulary with a Pele-powered word map, structured meanings, usage, nuance, and word family.",
+    "repo": "kimahtio/lexiside"
   }
 ]
